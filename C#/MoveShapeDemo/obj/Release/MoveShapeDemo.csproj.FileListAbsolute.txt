@@ -1,0 +1,6 @@
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\bin\MoveShapeDemo.dll
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\bin\MoveShapeDemo.pdb
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\bin\Microsoft.Web.Infrastructure.dll
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\bin\Microsoft.Web.Infrastructure.xml
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\obj\Release\MoveShapeDemo.dll
+X:\VS2012\TRAINING\SignalR\SignalR MoveShape demo\C#\MoveShapeDemo\obj\Release\MoveShapeDemo.pdb
